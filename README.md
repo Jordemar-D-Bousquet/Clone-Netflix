@@ -8,4 +8,6 @@ no qual seria um catálogo de filmes com genêro de super herois.
 
 Realizado utilizando conhecimentos adquiridos no bootcamp de HTLM , CSS e Javascript.
 
+[Acesse Aqui](https://jordemar-d-bousquet.github.io/Clone-Netflix/)
+
 Espero que gostem!!! :smirk:
